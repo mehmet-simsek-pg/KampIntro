@@ -24,7 +24,7 @@ namespace GenericsIntro
             items[items.Length - 1] = item;//Eklemek için yer açılan öğe eklendi.
 
         }
-
+        
         public int Length
         {
             get { return items.Length;}
